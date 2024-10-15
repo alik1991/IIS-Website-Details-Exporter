@@ -22,9 +22,11 @@ This PowerShell script extracts information about all IIS websites on the local 
    - Copy the script to your PowerShell environment.
    - Modify the `$outputFile` path to your preferred output location.
    - Run the script in PowerShell:
+
      ```powershell
      .\Export-IIS-Websites.ps1
      ```
+
    - The script will generate a file containing details of all IIS websites, including their names, states, and binding information.
 
 3. **Example Output**:
